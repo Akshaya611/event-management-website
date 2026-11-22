@@ -12,4 +12,4 @@ https://dazzledelight.netlify.app/
 - HTML
 - CSS
 - JavaScript
-- Swiper.js
+
